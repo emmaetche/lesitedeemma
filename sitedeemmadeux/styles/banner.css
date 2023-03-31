@@ -1,0 +1,18 @@
+.banner{
+    background-image: url("../images/playa.jpeg");
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    color: white;
+
+}
+
+
+.banner h1, .banner p{
+
+}

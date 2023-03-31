@@ -1,0 +1,35 @@
+.btn-blue{
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 7px;
+    padding: 16px;
+
+}
+
+.btn-blue:hover{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    transition: 0,4s;
+}
+
+.btn-flat {
+    color: white;
+    padding: 8px 24px;
+    border-radius: 4px;
+    background: #670BFF;
+    transition: "background" 0.3s ease;
+    text-align: center;
+
+}
+
+.btn-blues{
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 3px;
+}
+
